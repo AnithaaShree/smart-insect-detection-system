@@ -1,0 +1,102 @@
+{
+    "Aphid": {
+        "type": "Harmful",
+        "tamil_name": "அசுவினி",
+        "action_message": "Use Neem Oil spray or Pyrethrin-based pesticide. Apply every 7 days.",
+        "crops_affected": "Tomato, Brinjal, Okra, Cotton",
+        "damage": "Sucks sap from leaves causing yellowing and wilting",
+        "pesticide": "Imidacloprid 17.8% SL — spray 0.3ml per liter of water",
+        "organic": "Neem oil 5ml per liter — spray every 7 days",
+        "best_time": "Early morning or evening — avoid afternoon spray",
+        "warning": "Wear gloves and mask while spraying"
+    },
+    "Caterpillar": {
+        "type": "Harmful",
+        "tamil_name": "கம்பளிப்பூச்சி",
+        "action_message": "Apply Chlorpyrifos or Bt spray immediately. Check leaves daily.",
+        "crops_affected": "Cabbage, Tomato, Cotton, Maize",
+        "damage": "Eats leaves, stems and fruits causing major crop loss",
+        "pesticide": "Chlorpyrifos 20% EC — 2ml per liter of water",
+        "organic": "Bacillus thuringiensis Bt spray — natural bacteria kills caterpillars",
+        "best_time": "Spray when larvae are young — early stage easiest to control",
+        "warning": "Check undersides of leaves for egg clusters daily"
+    },
+    "Mealybug": {
+        "type": "Harmful",
+        "tamil_name": "மாவுப்பூச்சி",
+        "action_message": "Apply Profenofos spray and remove white cottony masses manually.",
+        "crops_affected": "Grapes, Papaya, Cotton, Mango",
+        "damage": "White cottony mass on stems weakens plant severely",
+        "pesticide": "Profenofos 50% EC — 2ml per liter of water",
+        "organic": "Swab with cotton dipped in rubbing alcohol on affected areas",
+        "best_time": "Spray in cooler hours — early morning or after 5pm",
+        "warning": "Ants protect mealybugs — control ants too with separate treatment"
+    },
+    "Thrips": {
+        "type": "Harmful",
+        "tamil_name": "இடிதாக்கிகள்",
+        "action_message": "Use Spinosad spray and blue sticky traps around the crop.",
+        "crops_affected": "Onion, Chilli, Cotton, Rose",
+        "damage": "Silvery streaks on leaves — causes flower and fruit drop",
+        "pesticide": "Spinosad 45% SC — 0.3ml per liter of water",
+        "organic": "Blue sticky traps plus reflective mulch to repel thrips",
+        "best_time": "Spray twice — 7 days apart for full control",
+        "warning": "Thrips hide inside flowers — spray directly inside blooms"
+    },
+    "Whitefly": {
+        "type": "Harmful",
+        "tamil_name": "வெள்ளை ஈ",
+        "action_message": "Use yellow sticky traps and Thiamethoxam spray immediately.",
+        "crops_affected": "Tomato, Cotton, Cassava, Sweet Potato",
+        "damage": "Spreads viral diseases and sucks plant sap causing wilting",
+        "pesticide": "Thiamethoxam 25% WG — 0.3g per liter of water",
+        "organic": "Yellow sticky traps plus Neem oil spray every 5 days",
+        "best_time": "Spray in early morning before 8am",
+        "warning": "Rotate pesticides every spray to prevent resistance"
+    },
+    "Dragonfly": {
+        "type": "Beneficial",
+        "tamil_name": "தும்பி",
+        "action_message": "No pesticide needed. Dragonflies eat harmful insects naturally. Protect them!",
+        "benefit": "Eats mosquitoes, gnats and small harmful flies near crops",
+        "crops_helped": "Rice fields and vegetable gardens near water sources",
+        "advice": "Maintain small water bodies near farm to attract dragonflies naturally.",
+        "fun_fact": "Dragonfly catches 95 percent of everything it hunts — most efficient predator on Earth"
+    },
+    "Ground_Beetle": {
+        "type": "Beneficial",
+        "tamil_name": "நில வண்டு",
+        "action_message": "No pesticide needed. Ground beetles protect your soil and roots.",
+        "benefit": "Lives in soil and eats cutworms, slugs and underground soil pests",
+        "crops_helped": "All field crops — especially root vegetables like carrot and radish",
+        "advice": "Avoid deep tillage which destroys ground beetle habitat. Use mulch for shelter.",
+        "fun_fact": "Ground beetles are active at night — silent protectors of your soil"
+    },
+    "Honeybee": {
+        "type": "Beneficial",
+        "tamil_name": "தேனீ",
+        "action_message": "No pesticide needed. Bees are essential for your crop yield. Protect them!",
+        "benefit": "Pollinates flowers — essential for fruit and vegetable production",
+        "crops_helped": "All flowering crops — cucumber, pumpkin, sunflower, mango",
+        "advice": "Never spray pesticides when bees are active 8am to 11am. Spray only after 6pm.",
+        "fun_fact": "30 percent of all food we eat depends on honeybee pollination"
+    },
+    "Lacewing": {
+        "type": "Beneficial",
+        "tamil_name": "லேஸ்விங் பூச்சி",
+        "action_message": "No pesticide needed. Lacewings eat harmful pest eggs and larvae.",
+        "benefit": "Larvae eat aphids, mites, whiteflies and small caterpillars",
+        "crops_helped": "Tomato, Cotton, Maize and all vegetable crops",
+        "advice": "Plant flowering herbs like coriander near crops to attract lacewings.",
+        "fun_fact": "A single lacewing larva can eat 200 pest eggs per week"
+    },
+    "Ladybug": {
+        "type": "Beneficial",
+        "tamil_name": "லேடிபர்ட் வண்டு",
+        "action_message": "No pesticide needed. This insect protects your crops. Keep it safe!",
+        "benefit": "Eats up to 50 aphids per day — natural pest controller",
+        "crops_helped": "All vegetable crops — especially tomato and brinjal",
+        "advice": "Do NOT spray pesticides near ladybugs. Plant dill or fennel nearby to attract more.",
+        "fun_fact": "One ladybug can eat 5000 aphids in its lifetime"
+    }
+}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+backend/firebase_key.json
+
+# Model
+backend/keras_model.h5
+
+# Dataset
+backend/dataset/
+backend/dataset_extra/
+backend/dataset_multiclass/
+
+# Training
+*.png
+
+# Flutter
+mobile_app/build/
+mobile_app/.dart_tool/
+mobile_app/.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
